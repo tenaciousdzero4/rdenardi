@@ -7,6 +7,7 @@
 Emerging Cybersecurity talent with 8 years in the Army as a Geospatial Engineer. I'm new to some of the technology that I have learned through my training at MyComputerCareer. My baseline knowledge was learned in the Army with the security operations I experienced and performed. I have continued my education on my own through several open-source learning environments. 
 
 ## 🚀 Projects
+Mini Projects to learn or practice
 - [Create a VM in VirtualBox]
 - [space]
 - [space 2]
